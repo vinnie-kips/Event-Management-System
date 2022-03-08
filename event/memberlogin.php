@@ -7,7 +7,7 @@
         <img src="images\logo11.bmp">
         <BR>
         <BR>
-     <center><img src="images\studentlogin.bmp"></center>
+     <center><img src="images\img.PNG"></center>
 <?php
 include("config.php");
 session_start();

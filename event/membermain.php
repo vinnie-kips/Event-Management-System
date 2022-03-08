@@ -8,7 +8,7 @@
 <BR>
 
 <a href="mainpage.php"> <h3> Home </h3></A>        
-<center><img src="images\membermain.bmp"></center>
+<center><img src="images\mgh.PNG"></center>
 <BR>
 <Table border="0" align="center" width="50%" cellpadding="5">
 
