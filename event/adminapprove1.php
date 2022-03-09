@@ -4,7 +4,7 @@
         <title> KITALA EVENT MANAGEMENT</title>
     </head>
      <body bgcolor="lightblue">
-        <img src="images\logo1.jpg">
+        <img src="images\logo11.bmp">
         <BR>
         <a href="adminmain.php"> <h3> Admin Main </h3></A>
         <BR>

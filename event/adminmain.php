@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Online Event Management</title>
+        <title> KITALA EVENT MANAGEMENT</title>
     </head>
      <body bgcolor="lightblue">
         <img src="images\logo11.bmp">
@@ -12,7 +12,7 @@
      <center><img src="images\adminmain.bmp"></center>
         <BR>
         <Table border="0" align="center" width="50%" cellpadding="5">
-        <tr><td height="20" bgcolor="#33AABB" >    
+         
           
        
                     <tr><td  bgcolor="#33AABB">    
