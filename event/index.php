@@ -99,7 +99,7 @@
             <div class="carousel-item">
                 <img src="images\event8.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                <h5 style="color:white">MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY GORAKHPUR</h5>
+                <h5 style="color:white">KITALA COMMUNITY EVENTS MANAGEMENT</h5>
                 <A href="mainpage.php">
                     <button class="btn btn-danger" onclick="mainpage.php">Get Started</button>
                     </A>

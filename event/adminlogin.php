@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Online Event Management</title>
+        <title> KITALA EVENT MANAGEMENT</title>
     </head>
      <body bgcolor="lightblue">
      <img src="images\logo11.bmp" width=1500px height=160px class="img-fluid" alt="Responsive image">

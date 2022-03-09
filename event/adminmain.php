@@ -27,15 +27,14 @@
         </td></tr>
         
         <tr><td  bgcolor="#33AABB">    
-        <A href="adminappliedlist.php"> <h2> Applicant List </h2> </A> </td><td bgcolor="#33AABB"> <A href="adminindex.php"> <h2> Logout </h2> </A> 
-        </td></tr>        
+        <A href="adminappliedlist.php"> <h2> Applicant List </h2> </A> </td><td bgcolor="#33AABB"> <a href="mainpage.php"> <h3> Logout </h3></A> 
+        </td></tr>   
+             
 
 
                            
         </table>    
-        <?php
-        // put your code here
-        ?>
+      
         <BR>
         <BR>
       

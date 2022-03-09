@@ -4,9 +4,9 @@
         <title> KITALA EVENT MANAGEMENT</title>
     </head>
      <body bgcolor="lightblue">
-        <img src="images\logo1.jpg">
+        <img src="images\logo11.bmp">
         <BR>
-        <a href="studentmain.php"> <h3> Member Main </h3></A>
+        <a href="membermain.php"> <h3> Member Main </h3></A>
         <BR>
      <center><img src="images\appliedlist.bmp"></center>
      <BR>
